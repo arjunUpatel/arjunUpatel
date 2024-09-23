@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [transit-wishes](https://github.com/arjunUpatel/transit-wishes)
 
-- 🌱 I’m currently learning **react, nodejs and firebase**
+- 🌱 I’m currently learning **about compilers**
 
 - 📫 How to reach me **arjunpatel151002@gmail.com**
 
