@@ -1,24 +1,18 @@
 <h1 align="center">Hi 👋, I'm Arjun</h1>
-<h3 align="center">Student at Rutgers University</h3>
+<h3 align="center">Recent graduate from Rutgers University</h3>
 
-- 🔭 I’m currently working on [transit-wishes](https://github.com/arjunUpatel/transit-wishes)
+**I'm currently...**
 
-- 🌱 I’m currently learning **about compilers**
+🔭 working on open source contributions to [**LLVM**](https://github.com/llvm/llvm-project/pulls/arjunUpatel)
 
-- 📫 How to reach me **arjunpatel151002@gmail.com**
+🌱 learning **about Compilers and GPUs**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arjun-u-patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjun-u-patel" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/281254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="281254" height="30" width="40" /></a>
-<a href="https://instagram.com/arjun_1510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arjun_1510" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/4bidden_1510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="4bidden_1510" height="30" width="40" /></a>
-</p>
+⭐ looking for roles. I am especially intersted in roles that lie at the interface of hardware and software
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+**You can...**
+
+📫 reach me at **arjunpatel151002@gmail.com**
+
+📖 learn more about me via my [**resume**](https://github.com/llvm/llvm-project/pulls/arjunUpatel)
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjunupatel&show_icons=true&locale=en" alt="arjunupatel" /></p> -->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunupatel&" alt="arjunupatel" /></p>
-
