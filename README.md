@@ -5,7 +5,7 @@
 
 🔭 working on open source contributions to [**LLVM**](https://github.com/llvm/llvm-project/pulls/arjunUpatel)
 
-🌱 learning **about Compilers and GPUs**
+🌱 learning **about Compilers, GPUs and the Linux kernel**
 
 ⭐ looking for roles. I am especially intersted in roles that lie at the interface of hardware and software
 
